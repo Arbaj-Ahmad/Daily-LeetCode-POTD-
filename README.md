@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0904-fruit-into-baskets) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0904-fruit-into-baskets) |
 ## Depth-First Search
@@ -174,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/1510-stone-game-iv) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 <!---LeetCode Topics End-->
