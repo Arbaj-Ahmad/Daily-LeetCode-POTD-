@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
 |  |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
