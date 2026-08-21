@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0486-predict-the-winner](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0877-stone-game) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1386-cinema-seat-allocation](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -192,12 +194,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Prefix Sum
 |  |
@@ -236,8 +240,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
