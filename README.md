@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0877-stone-game) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0202-happy-number) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
