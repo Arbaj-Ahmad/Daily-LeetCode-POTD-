@@ -16,14 +16,14 @@ public:
     bool isHappy(int n) {
         int slow = n, fast = fun(n);
 
-        while (fast != 1 && slow != fast) {
+        while (fast != 1) {
             slow = fun(slow);
             fast = fun(fun(fast));
-            // if ( fast == 1){
-            //     return true;
-            // }
+            if (slow == fast && slow!= 1){
+                return false;
+            }
             
         }
-        return fast == 1;
+        return true;
     }
 };
