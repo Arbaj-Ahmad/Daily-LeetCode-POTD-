@@ -8,18 +8,20 @@ public:
         while (true) {
             slow = nums[slow];
             fast = nums[nums[fast]];
-            // fast = nums[fast];
+           
             if (slow == fast) {
-                // slow = 0;
+               
                 break;
             }
         }
         int slow2 = nums[0];
+
         while (slow != slow2) {
             slow = nums[slow];
             slow2 = nums[slow2];
         }
-         return slow;
+        return slow;
     }
-   
+
+  
 };
