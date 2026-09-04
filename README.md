@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1140-stone-game-ii](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/1140-stone-game-ii) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1386-cinema-seat-allocation](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/1140-stone-game-ii) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1406-stone-game-iii](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/Arbaj-Ahmad/Daily-LeetCode-POTD-/tree/master/1872-stone-game-viii) |
