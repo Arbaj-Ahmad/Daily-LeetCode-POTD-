@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3871-count-commas-in-range-ii](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Bit Manipulation
