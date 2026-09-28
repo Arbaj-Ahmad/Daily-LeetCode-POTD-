@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Arbaj-Ahmad/Daily-LeetCode-POTD-/tree/master/0021-merge-two-sorted-lists) |
 | [0486-predict-the-winner](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0486-predict-the-winner) |
 | [1922-count-good-numbers](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/1922-count-good-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Arbaj-Ahmad/Daily-LeetCode-POTD-/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0876-middle-of-the-linked-list) |
