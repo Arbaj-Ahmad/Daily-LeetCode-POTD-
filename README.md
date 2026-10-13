@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Arbaj-Ahmad/Daily-LeetCode-POTD-/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0053-maximum-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Arbaj-Ahmad/Daily-LeetCode-POTD-/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Arbaj-Ahmad/Daily-LeetCode-POTD-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
