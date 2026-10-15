@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Arbaj-Ahmad/Daily-LeetCode-POTD-/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Arbaj-Ahmad/Daily-LeetCode-POTD-/tree/master/0013-roman-to-integer) |
 | [0115-distinct-subsequences](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0115-distinct-subsequences) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Arbaj-Ahmad/Daily-LeetCode-POTD-/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0202-happy-number) |
