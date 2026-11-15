@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Arbaj-Ahmad/Daily-LeetCode-POTD-/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Arbaj-Ahmad/Daily-LeetCode-POTD-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0486-predict-the-winner](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0486-predict-the-winner) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0115-distinct-subsequences) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Arbaj-Ahmad/Daily-LeetCode-POTD-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Arbaj-Ahmad/Daily-LeetCode/tree/master/0940-distinct-subsequences-ii) |
